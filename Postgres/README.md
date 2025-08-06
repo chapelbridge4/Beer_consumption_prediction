@@ -1,6 +1,7 @@
 # PostgreSQL Database Module
 
-This module manages PostgreSQL database operations, including connections, table creation, and data management for the ETLP pipeline.
+This module should manage PostgreSQL database operations, including connections, table creation, and data management for the ETLP pipeline.
+I removed those files for privacy.
 
 ## 📁 Module Contents
 
