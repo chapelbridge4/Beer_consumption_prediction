@@ -1,6 +1,6 @@
 # SQL Server Integration Module
 
-This module provides comprehensive SQL Server database integration, including connections, data migration, and cross-database operations for the ETLP pipeline.
+This module should provide comprehensive SQL Server database integration, including connections, data migration, and cross-database operations for the ETLP pipeline. I removed those files for privacy.
 
 ## 📁 Module Components
 
