@@ -121,14 +121,6 @@ The project includes several pre-trained models for alcohol consumption predicti
 4. **Analyze** - Generate insights and predictions
 5. **Visualize** - Create charts and dashboards
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## 📄 License
-
-This project is available for portfolio and educational purposes.
-
 ## ⚡ Quick Start Example
 
 ```python
@@ -137,10 +129,6 @@ from main import main
 # Run the complete ETL pipeline
 main()
 ```
-
-## 📞 Support
-
-For questions or support, please open an issue in this repository.
 
 ---
 
